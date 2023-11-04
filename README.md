@@ -1,1 +1,1 @@
-# PAID-SYSTEM.txt
+GOD=[10250]=BRAND
